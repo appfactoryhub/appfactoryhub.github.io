@@ -1,1 +1,1 @@
-# appfactoryhub github pages website
+# Welcome to the AppFactory Hub
